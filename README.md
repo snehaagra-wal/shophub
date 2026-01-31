@@ -18,7 +18,7 @@ Zero Dependencies: "Built entirely with Vanilla JS—no heavy frameworks, just p
 "Implemented optimized DOM manipulation to ensure smooth rendering of brand cards."
 "Clean and modular CSS architecture for easy UI scalability and maintenance."
 
-📖 How it Works (For the "About" section)
+📖 How it Works
 "ShopHub uses a centralized data structure to store brand information. As the user types in the search bar, the JavaScript logic listens for input events, filters the brand list in real-time, and updates the DOM dynamically. This ensures a fluid user experience without any page reloads."
 
 
